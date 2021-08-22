@@ -73,6 +73,7 @@ header h1, header h2 {
   margin: 0;
 }
 .profile-img {
+  margin-top:9px;
   border-radius: 50%;
 }
 
