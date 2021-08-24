@@ -106,6 +106,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
+  border: black;
   /*z-index: 100;*/
 }
 nav a {
